@@ -12,7 +12,7 @@ A simple web browser in Python.
 
 Install:
 
-pip install PyQt5 QtWebEngineWidgets
+pip install PyQt5 QtWebEngine
 
 Run proyect:
 
